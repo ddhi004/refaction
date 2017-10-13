@@ -76,6 +76,18 @@ All models are specified in the `/Models` folder, but should conform to:
 }
 ```
 
+## Guidance
+
+There isn't a single "right answer", but some good things to consider might be:
+
+* Separate concerns.
+* DRY (Don't Repeat Yourself) principle.
+* Code readability and maintainability.
+* Error handling.
+* Testing. 
+* Metrics.
+* Contract versioning.
+
 ## Once you're done
 
 Create a pull request back into this repository and describe, in as much detail as you feel necessary, what you have done to improve this project. Include your full name in the title as it appears on your CV so we can match it back to your job application. We'll take it from there and review.
